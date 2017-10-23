@@ -1,0 +1,6 @@
+{
+    "microbit": {
+        "S130": true,
+        "configfile": "source/MicroBitCustomConfig.h"
+    }
+}
