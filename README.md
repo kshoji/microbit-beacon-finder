@@ -13,7 +13,7 @@ This project uses yotta to build, not pxt.
 This project uses the another SoftDevice(S130). That enables BLE Central feature.
 
 Follow these steps to build the project.
-** Don't forget copying NRF51822_S130.ld to NRF51822.ld ! **
+**Don't forget copying NRF51822_S130.ld to NRF51822.ld !**
 
 ```bash
 # set target to use S130 SoftDevice.
